@@ -1,5 +1,7 @@
 # senai-versoes-colaboracoes
 
-1, 2, 3 testando!
+readme de exemplo.
 
 lembrei do comando: git commit
+lembrei do comando: git status
+
